@@ -1,0 +1,6 @@
+module Pods_ReactNativeBooksApps {
+  umbrella header "Pods-ReactNativeBooksApps-umbrella.h"
+
+  export *
+  module * { export * }
+}
