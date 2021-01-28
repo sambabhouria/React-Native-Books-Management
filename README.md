@@ -20,7 +20,7 @@
     The Drawer navigation opens when a menu icon is clicked or when a user swipes their finger from the left or right edge of the app.
 #  Conclusion
 
-   <img src="screen-shots/me.png" width="300" height="600"/><img src="src/screen-shots/a.png" width="300" height="600"/>
-   <img src="screen-shots/b.png" width="300" height="600"/><img src="src/screen-shots/c.png" width="300" height="600"/>
-   <img src="screen-shots/d.png" width="300" height="600"/><img src="src/screen-shots/e.png" width="300" height="600"/>
-   <img src="screen-shots/f.png" width="300" height="600"/><img src="src/screen-shots/e.png" width="300" height="600"/>
+   <img src="screen-shots/me.png" width="300" height="300"/> <img src="src/screen-shots/a.png" width="300" height="300"/>
+   <img src="screen-shots/b.png" width="300" height="300"/> <img src="src/screen-shots/c.png" width="300" height="300"/>
+   <img src="screen-shots/d.png" width="300" height="300"/> <img src="src/screen-shots/e.png" width="300" height="300"/>
+   <img src="screen-shots/f.png" width="300" height="300"/> <img src="src/screen-shots/e.png" width="300" height="300"/>
